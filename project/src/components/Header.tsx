@@ -1,5 +1,5 @@
 import React from 'react';
-import { Warehouse, User, Bell, ChevronDown, LogOut } from 'lucide-react';
+import { Warehouse, User, ChevronDown, LogOut } from 'lucide-react';
 import { Region } from '../types';
 import { useAuth } from '../hooks/useAuth';
 
